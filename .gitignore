@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+*_old
+*_backup
+
+tmp/bootstrap-4.1.3-dist.zip
+
